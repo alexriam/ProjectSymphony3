@@ -1,0 +1,4 @@
+php -r "file_put_contents('symfony', file_get_contents('https://symfony.com/installer'));"
+
+symfony new my_project
+
